@@ -141,10 +141,6 @@ npm run preview      # Preview production build
 - Ensure backend services allow `http://localhost:5173` origin
 - Check Docker network configuration
 
-## Design
-
-Original design available at: [Figma - Product Management Dashboard](https://www.figma.com/design/epqx3xtRtwxHwLzbM1Mv8G/Product-Management-Dashboard)
-
 ## License
 
 MIT
